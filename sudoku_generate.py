@@ -3,6 +3,7 @@
 
 
 from sudoku_solving import sudoku_solving
+import random
 
 global DIFICULTY                    #values between 1-50
 DIFICULTY       = 1                 #default value
